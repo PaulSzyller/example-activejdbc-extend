@@ -1,0 +1,26 @@
+# Build #
+#########
+target
+target/*
+out
+out/*
+
+# IntelliJ #
+############
+.idea
+.idea/*
+*.iml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log Files #
+#############
+*.log
